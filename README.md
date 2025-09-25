@@ -24,3 +24,13 @@ It was designed as part of a learning project to practice **OOP concepts, file h
 ---
 
 ## 📂 Project Structure
+
+Speedy_rent/
+│
+├── Car.h / Car.cpp # Defines the Car class and its attributes
+├── Booking.h / Booking.cpp # Manages car booking functionality
+├── CustomerInfo.h / CustomerInfo.cpp # Stores and handles customer data
+├── Payment.h / Payment.cpp # Handles payment operations
+├── RentalUI.h / RentalUI.cpp # Provides the menu and user interface
+├── main.cpp # Entry point of the program
+└── Speedy Rent 2.sln # Visual Studio solution file
