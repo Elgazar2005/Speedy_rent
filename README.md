@@ -28,9 +28,32 @@ It was designed as part of a learning project to practice **OOP concepts, file h
 Speedy_rent/
 │
 ├── Car.h / Car.cpp # Defines the Car class and its attributes
+
 ├── Booking.h / Booking.cpp # Manages car booking functionality
+
 ├── CustomerInfo.h / CustomerInfo.cpp # Stores and handles customer data
+
 ├── Payment.h / Payment.cpp # Handles payment operations
+
 ├── RentalUI.h / RentalUI.cpp # Provides the menu and user interface
+
 ├── main.cpp # Entry point of the program
+
 └── Speedy Rent 2.sln # Visual Studio solution file
+
+---
+
+## ⬇️ Download Project
+
+You can get the project in two ways:
+
+1. **Clone the repository (recommended):**
+   ```bash
+   git clone https://github.com/Elgazar2005/Speedy_rent.git
+2. **Download ZIP:
+
+Go to the repository page: Speedy Rent
+
+Click on the green Code button (top-right).
+
+Select Download ZIP and extract it on your computer.
