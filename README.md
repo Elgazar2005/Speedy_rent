@@ -44,10 +44,10 @@ Speedy_rent/
 ---
 
 ## Team Member:
-Omar Ahmed
-Ahmed Mahmoud
-Habiba Mohammed
-Sama Osama
+**Omar Ahmed**
+**Ahmed Mahmoud**
+**Habiba Mohammed**
+**Sama Osama**
 
 ## ⬇️ Download Project
 
